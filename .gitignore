@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project
+.ENCRYPT_KEY
+hydrocode_auth.db

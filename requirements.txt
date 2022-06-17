@@ -1,0 +1,5 @@
+cryptography
+sqlalchemy>=1.4
+flask
+flask_cors
+fire
